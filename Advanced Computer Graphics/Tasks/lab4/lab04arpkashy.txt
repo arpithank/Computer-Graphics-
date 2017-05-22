@@ -1,0 +1,10 @@
+B581/Spring2017, LAB 04
+date of submission: 05/02/2017
+Arpitha N Kashyap
+arpkashy
+
+My target platform is going to be Android.
+
+I will be using MS Windows platform
+
+I prefer to use my personal laptop for my development platform.

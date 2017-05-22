@@ -1,0 +1,6 @@
+B581/Spring 2017
+arpkashy
+
+The transformation stage of the polygon projection pipeline that has been modified is:
+
+The Model matrix.
